@@ -1,0 +1,4 @@
+2023-11-19 21:28:37,242 - INFO - The request for data was made and successfully received!
+2023-11-19 21:28:44,725 - WARNING - A wrong city name was provided!
+2023-11-19 21:28:53,823 - WARNING - No city name was provided!
+2023-11-19 21:29:10,685 - ERROR - There are some technical problems, please check!
